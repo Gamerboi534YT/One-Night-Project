@@ -1,0 +1,437 @@
+{ "pid": 16740, "tid": 34359738368, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494036921, "dur": 22204, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494059127, "dur": 681594, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494059137, "dur": 73, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494059213, "dur": 8, "ph": "X", "name": "ProcessMessages 63", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494059222, "dur": 3431, "ph": "X", "name": "ReadAsync 63", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494062665, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494062669, "dur": 1203, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494063884, "dur": 16, "ph": "X", "name": "ProcessMessages 4815", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494063904, "dur": 165, "ph": "X", "name": "ReadAsync 4815", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064073, "dur": 5, "ph": "X", "name": "ProcessMessages 5760", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064079, "dur": 48, "ph": "X", "name": "ReadAsync 5760", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064130, "dur": 1, "ph": "X", "name": "ProcessMessages 720", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064133, "dur": 41, "ph": "X", "name": "ReadAsync 720", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064177, "dur": 1, "ph": "X", "name": "ProcessMessages 648", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064179, "dur": 40, "ph": "X", "name": "ReadAsync 648", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064222, "dur": 1, "ph": "X", "name": "ProcessMessages 424", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064225, "dur": 37, "ph": "X", "name": "ReadAsync 424", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064265, "dur": 1, "ph": "X", "name": "ProcessMessages 407", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064267, "dur": 38, "ph": "X", "name": "ReadAsync 407", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064308, "dur": 1, "ph": "X", "name": "ProcessMessages 650", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064310, "dur": 36, "ph": "X", "name": "ReadAsync 650", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064349, "dur": 1, "ph": "X", "name": "ProcessMessages 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064351, "dur": 37, "ph": "X", "name": "ReadAsync 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064391, "dur": 1, "ph": "X", "name": "ProcessMessages 434", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064394, "dur": 36, "ph": "X", "name": "ReadAsync 434", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064433, "dur": 1, "ph": "X", "name": "ProcessMessages 380", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064435, "dur": 37, "ph": "X", "name": "ReadAsync 380", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064476, "dur": 1, "ph": "X", "name": "ProcessMessages 693", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064478, "dur": 36, "ph": "X", "name": "ReadAsync 693", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064517, "dur": 1, "ph": "X", "name": "ProcessMessages 386", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064519, "dur": 39, "ph": "X", "name": "ReadAsync 386", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064562, "dur": 1, "ph": "X", "name": "ProcessMessages 439", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064564, "dur": 34, "ph": "X", "name": "ReadAsync 439", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064602, "dur": 1, "ph": "X", "name": "ProcessMessages 354", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064604, "dur": 127, "ph": "X", "name": "ReadAsync 354", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064735, "dur": 39, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064777, "dur": 1, "ph": "X", "name": "ProcessMessages 718", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064779, "dur": 36, "ph": "X", "name": "ReadAsync 718", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064819, "dur": 1, "ph": "X", "name": "ProcessMessages 420", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064821, "dur": 38, "ph": "X", "name": "ReadAsync 420", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064862, "dur": 1, "ph": "X", "name": "ProcessMessages 455", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064864, "dur": 40, "ph": "X", "name": "ReadAsync 455", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064907, "dur": 1, "ph": "X", "name": "ProcessMessages 676", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064909, "dur": 39, "ph": "X", "name": "ReadAsync 676", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064952, "dur": 1, "ph": "X", "name": "ProcessMessages 420", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494064954, "dur": 64, "ph": "X", "name": "ReadAsync 420", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065021, "dur": 1, "ph": "X", "name": "ProcessMessages 801", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065024, "dur": 39, "ph": "X", "name": "ReadAsync 801", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065066, "dur": 1, "ph": "X", "name": "ProcessMessages 601", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065068, "dur": 39, "ph": "X", "name": "ReadAsync 601", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065110, "dur": 1, "ph": "X", "name": "ProcessMessages 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065112, "dur": 37, "ph": "X", "name": "ReadAsync 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065152, "dur": 1, "ph": "X", "name": "ProcessMessages 446", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065154, "dur": 37, "ph": "X", "name": "ReadAsync 446", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065194, "dur": 1, "ph": "X", "name": "ProcessMessages 416", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065197, "dur": 39, "ph": "X", "name": "ReadAsync 416", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065238, "dur": 1, "ph": "X", "name": "ProcessMessages 543", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065240, "dur": 34, "ph": "X", "name": "ReadAsync 543", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065277, "dur": 1, "ph": "X", "name": "ProcessMessages 201", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065279, "dur": 39, "ph": "X", "name": "ReadAsync 201", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065320, "dur": 1, "ph": "X", "name": "ProcessMessages 657", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065323, "dur": 37, "ph": "X", "name": "ReadAsync 657", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065363, "dur": 1, "ph": "X", "name": "ProcessMessages 399", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065365, "dur": 36, "ph": "X", "name": "ReadAsync 399", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065404, "dur": 1, "ph": "X", "name": "ProcessMessages 423", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065406, "dur": 39, "ph": "X", "name": "ReadAsync 423", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065448, "dur": 1, "ph": "X", "name": "ProcessMessages 684", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065450, "dur": 37, "ph": "X", "name": "ReadAsync 684", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065490, "dur": 1, "ph": "X", "name": "ProcessMessages 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065492, "dur": 38, "ph": "X", "name": "ReadAsync 387", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065534, "dur": 1, "ph": "X", "name": "ProcessMessages 453", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065536, "dur": 39, "ph": "X", "name": "ReadAsync 453", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065577, "dur": 1, "ph": "X", "name": "ProcessMessages 736", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065579, "dur": 38, "ph": "X", "name": "ReadAsync 736", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065620, "dur": 1, "ph": "X", "name": "ProcessMessages 407", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065622, "dur": 35, "ph": "X", "name": "ReadAsync 407", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065660, "dur": 1, "ph": "X", "name": "ProcessMessages 474", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065663, "dur": 40, "ph": "X", "name": "ReadAsync 474", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065705, "dur": 1, "ph": "X", "name": "ProcessMessages 689", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065707, "dur": 37, "ph": "X", "name": "ReadAsync 689", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065747, "dur": 1, "ph": "X", "name": "ProcessMessages 406", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065749, "dur": 36, "ph": "X", "name": "ReadAsync 406", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065789, "dur": 1, "ph": "X", "name": "ProcessMessages 410", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065791, "dur": 38, "ph": "X", "name": "ReadAsync 410", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065831, "dur": 1, "ph": "X", "name": "ProcessMessages 627", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065833, "dur": 36, "ph": "X", "name": "ReadAsync 627", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065872, "dur": 1, "ph": "X", "name": "ProcessMessages 410", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065875, "dur": 35, "ph": "X", "name": "ReadAsync 410", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065914, "dur": 1, "ph": "X", "name": "ProcessMessages 368", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065916, "dur": 39, "ph": "X", "name": "ReadAsync 368", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065958, "dur": 1, "ph": "X", "name": "ProcessMessages 591", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065960, "dur": 37, "ph": "X", "name": "ReadAsync 591", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494065999, "dur": 1, "ph": "X", "name": "ProcessMessages 342", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066001, "dur": 37, "ph": "X", "name": "ReadAsync 342", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066041, "dur": 1, "ph": "X", "name": "ProcessMessages 373", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066044, "dur": 37, "ph": "X", "name": "ReadAsync 373", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066083, "dur": 1, "ph": "X", "name": "ProcessMessages 359", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066086, "dur": 38, "ph": "X", "name": "ReadAsync 359", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066127, "dur": 1, "ph": "X", "name": "ProcessMessages 653", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066129, "dur": 37, "ph": "X", "name": "ReadAsync 653", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066168, "dur": 1, "ph": "X", "name": "ProcessMessages 377", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066170, "dur": 37, "ph": "X", "name": "ReadAsync 377", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066210, "dur": 1, "ph": "X", "name": "ProcessMessages 447", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066213, "dur": 37, "ph": "X", "name": "ReadAsync 447", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066252, "dur": 1, "ph": "X", "name": "ProcessMessages 369", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066254, "dur": 40, "ph": "X", "name": "ReadAsync 369", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066297, "dur": 1, "ph": "X", "name": "ProcessMessages 287", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066299, "dur": 40, "ph": "X", "name": "ReadAsync 287", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066342, "dur": 1, "ph": "X", "name": "ProcessMessages 549", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066344, "dur": 38, "ph": "X", "name": "ReadAsync 549", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066386, "dur": 1, "ph": "X", "name": "ProcessMessages 458", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066388, "dur": 39, "ph": "X", "name": "ReadAsync 458", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066429, "dur": 1, "ph": "X", "name": "ProcessMessages 416", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066432, "dur": 37, "ph": "X", "name": "ReadAsync 416", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066471, "dur": 1, "ph": "X", "name": "ProcessMessages 341", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066473, "dur": 38, "ph": "X", "name": "ReadAsync 341", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066515, "dur": 1, "ph": "X", "name": "ProcessMessages 475", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066517, "dur": 39, "ph": "X", "name": "ReadAsync 475", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066559, "dur": 1, "ph": "X", "name": "ProcessMessages 511", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066561, "dur": 37, "ph": "X", "name": "ReadAsync 511", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066601, "dur": 1, "ph": "X", "name": "ProcessMessages 372", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066603, "dur": 40, "ph": "X", "name": "ReadAsync 372", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066646, "dur": 1, "ph": "X", "name": "ProcessMessages 391", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066648, "dur": 38, "ph": "X", "name": "ReadAsync 391", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066689, "dur": 1, "ph": "X", "name": "ProcessMessages 630", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066691, "dur": 36, "ph": "X", "name": "ReadAsync 630", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066730, "dur": 1, "ph": "X", "name": "ProcessMessages 360", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066732, "dur": 37, "ph": "X", "name": "ReadAsync 360", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066772, "dur": 1, "ph": "X", "name": "ProcessMessages 415", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066774, "dur": 37, "ph": "X", "name": "ReadAsync 415", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066814, "dur": 1, "ph": "X", "name": "ProcessMessages 393", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066817, "dur": 34, "ph": "X", "name": "ReadAsync 393", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066853, "dur": 1, "ph": "X", "name": "ProcessMessages 293", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066856, "dur": 39, "ph": "X", "name": "ReadAsync 293", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066899, "dur": 1, "ph": "X", "name": "ProcessMessages 575", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066901, "dur": 37, "ph": "X", "name": "ReadAsync 575", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066940, "dur": 1, "ph": "X", "name": "ProcessMessages 320", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066942, "dur": 34, "ph": "X", "name": "ReadAsync 320", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066979, "dur": 1, "ph": "X", "name": "ProcessMessages 278", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494066981, "dur": 42, "ph": "X", "name": "ReadAsync 278", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067026, "dur": 1, "ph": "X", "name": "ProcessMessages 269", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067028, "dur": 39, "ph": "X", "name": "ReadAsync 269", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067071, "dur": 1, "ph": "X", "name": "ProcessMessages 476", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067073, "dur": 40, "ph": "X", "name": "ReadAsync 476", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067116, "dur": 1, "ph": "X", "name": "ProcessMessages 427", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067118, "dur": 37, "ph": "X", "name": "ReadAsync 427", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067158, "dur": 1, "ph": "X", "name": "ProcessMessages 349", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067161, "dur": 37, "ph": "X", "name": "ReadAsync 349", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067200, "dur": 1, "ph": "X", "name": "ProcessMessages 352", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067202, "dur": 36, "ph": "X", "name": "ReadAsync 352", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067240, "dur": 1, "ph": "X", "name": "ProcessMessages 470", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067242, "dur": 39, "ph": "X", "name": "ReadAsync 470", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067284, "dur": 1, "ph": "X", "name": "ProcessMessages 418", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067286, "dur": 36, "ph": "X", "name": "ReadAsync 418", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067325, "dur": 1, "ph": "X", "name": "ProcessMessages 335", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067327, "dur": 37, "ph": "X", "name": "ReadAsync 335", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067367, "dur": 1, "ph": "X", "name": "ProcessMessages 475", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067369, "dur": 39, "ph": "X", "name": "ReadAsync 475", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067410, "dur": 1, "ph": "X", "name": "ProcessMessages 446", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067412, "dur": 32, "ph": "X", "name": "ReadAsync 446", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067448, "dur": 1, "ph": "X", "name": "ProcessMessages 48", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067450, "dur": 35, "ph": "X", "name": "ReadAsync 48", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067488, "dur": 1, "ph": "X", "name": "ProcessMessages 296", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067490, "dur": 38, "ph": "X", "name": "ReadAsync 296", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067530, "dur": 1, "ph": "X", "name": "ProcessMessages 443", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067532, "dur": 67, "ph": "X", "name": "ReadAsync 443", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067603, "dur": 1, "ph": "X", "name": "ProcessMessages 452", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067605, "dur": 42, "ph": "X", "name": "ReadAsync 452", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067649, "dur": 1, "ph": "X", "name": "ProcessMessages 791", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067652, "dur": 38, "ph": "X", "name": "ReadAsync 791", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067693, "dur": 1, "ph": "X", "name": "ProcessMessages 396", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067695, "dur": 40, "ph": "X", "name": "ReadAsync 396", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067737, "dur": 1, "ph": "X", "name": "ProcessMessages 301", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067739, "dur": 37, "ph": "X", "name": "ReadAsync 301", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067779, "dur": 1, "ph": "X", "name": "ProcessMessages 318", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067781, "dur": 38, "ph": "X", "name": "ReadAsync 318", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067822, "dur": 1, "ph": "X", "name": "ProcessMessages 374", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067824, "dur": 32, "ph": "X", "name": "ReadAsync 374", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067859, "dur": 1, "ph": "X", "name": "ProcessMessages 140", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494067861, "dur": 10762, "ph": "X", "name": "ReadAsync 140", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494078632, "dur": 65, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494078704, "dur": 36004, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494114724, "dur": 796, "ph": "X", "name": "ProcessMessages 278", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494115531, "dur": 13576, "ph": "X", "name": "ReadAsync 278", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494129117, "dur": 71, "ph": "X", "name": "ProcessMessages 1650", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494129190, "dur": 15399, "ph": "X", "name": "ReadAsync 1650", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494144602, "dur": 108, "ph": "X", "name": "ProcessMessages 1406", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494144712, "dur": 17919, "ph": "X", "name": "ReadAsync 1406", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494162642, "dur": 46, "ph": "X", "name": "ProcessMessages 1122", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494162690, "dur": 23909, "ph": "X", "name": "ReadAsync 1122", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494186609, "dur": 46, "ph": "X", "name": "ProcessMessages 990", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494186658, "dur": 36839, "ph": "X", "name": "ReadAsync 990", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494223506, "dur": 65, "ph": "X", "name": "ProcessMessages 1716", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494223573, "dur": 31565, "ph": "X", "name": "ReadAsync 1716", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494255151, "dur": 75, "ph": "X", "name": "ProcessMessages 1742", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494255228, "dur": 36106, "ph": "X", "name": "ReadAsync 1742", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494291345, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494291349, "dur": 16415, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494307773, "dur": 12, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494307787, "dur": 423664, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494731461, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494731465, "dur": 8910, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494740385, "dur": 20, "ph": "X", "name": "ProcessMessages 619", "args": {} },
+{ "pid": 16740, "tid": 34359738368, "ts": 1690555494740407, "dur": 309, "ph": "X", "name": "ReadAsync 619", "args": {} },
+{ "pid": 16740, "tid": 5546, "ts": 1690555494741543, "dur": 382, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 16740, "tid": 30064771072, "ph": "M", "name": "thread_name", "args": { "name": "BuildAsync" } },
+{ "pid": 16740, "tid": 30064771072, "ts": 1690555494033615, "dur": 707266, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 16740, "tid": 30064771072, "ts": 1690555494033744, "dur": 3112, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 16740, "tid": 30064771072, "ts": 1690555494740884, "dur": 8, "ph": "X", "name": "await WaitForAndApplyScriptUpdaters", "args": {} },
+{ "pid": 16740, "tid": 30064771072, "ts": 1690555494740894, "dur": 1, "ph": "X", "name": "await taskToReadBuildProgramOutput", "args": {} },
+{ "pid": 16740, "tid": 5546, "ts": 1690555494741936, "dur": 7, "ph": "X", "name": "BuildAsync", "args": {} },
+{ "pid": 16740, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 16740, "tid": 1, "ts": 1690555493982028, "dur": 1666, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 16740, "tid": 1, "ts": 1690555493983705, "dur": 47700, "ph": "X", "name": "<SetupBuildRequest>b__0", "args": {} },
+{ "pid": 16740, "tid": 1, "ts": 1690555494031410, "dur": 2175, "ph": "X", "name": "WriteJson", "args": {} },
+{ "pid": 16740, "tid": 5546, "ts": 1690555494741945, "dur": 5, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1690555494059190, "dur":51, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494059304, "dur":2812, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494062143, "dur":200, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494062418, "dur":233, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494062718, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1690555494062901, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1690555494063736, "dur":211, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1690555494064012, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1690555494064107, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1690555494064259, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1690555494064664, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1690555494062674, "dur":5869, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494068545, "dur":662622, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494731262, "dur":1518, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1690555494063327, "dur":5241, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494068577, "dur":705, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494069283, "dur":822, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494070106, "dur":3772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494073897, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1690555494073879, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1690555494074885, "dur":11312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1690555494086308, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1690555494087522, "dur":30714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494118314, "dur":1277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494119662, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494120553, "dur":703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494121326, "dur":1189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494122616, "dur":796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494123480, "dur":2101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494125668, "dur":849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494126558, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494126774, "dur":805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494127628, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494127704, "dur":879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494128665, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494129596, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494130700, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494131730, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494132619, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494133454, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494134403, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494135601, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494137062, "dur":1040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494138270, "dur":3085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494141448, "dur":946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494142479, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494143403, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494143490, "dur":2742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494146312, "dur":728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494147115, "dur":965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494148159, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494148962, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494151623, "dur":4148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494155876, "dur":1071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494157021, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494159437, "dur":17616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494177830, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494180348, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494182280, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494183529, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494185121, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494186071, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494186971, "dur":1922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494188973, "dur":682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494189812, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494191261, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1690555494191345, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494192813, "dur":1233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494194155, "dur":1063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494195295, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1690555494196570, "dur":6298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1690555494202919, "dur":1443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1690555494204410, "dur":3239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1690555494207748, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1690555494208650, "dur":713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1690555494209467, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1690555494210511, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1690555494212150, "dur":656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1690555494212851, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1690555494213710, "dur":3723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1690555494217484, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1690555494218227, "dur":512891, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494063267, "dur":5292, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494068563, "dur":5246, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494074120, "dur":192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1690555494074313, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494074382, "dur":5117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1690555494079555, "dur":317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1690555494080013, "dur":455, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494080507, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494080637, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494080744, "dur":317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494081062, "dur":1085, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494082149, "dur":475, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494082626, "dur":1532, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494084176, "dur":3272, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494087449, "dur":19704, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\noobn\\One Goofy Night Remaster\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494107217, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494107410, "dur":741, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":2, "ts":1690555494074381, "dur":33837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1690555494111161, "dur":96, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494111266, "dur":3196, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1690555494128470, "dur":595536, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1690555494728599, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1690555494728597, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1690555494728759, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1690555494063389, "dur":5214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494068604, "dur":695, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494069300, "dur":663, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494069963, "dur":553, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494070516, "dur":3298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494074756, "dur":3507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1690555494078266, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1690555494078463, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1690555494079268, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494079574, "dur":673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1690555494080363, "dur":650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1690555494081094, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494081339, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1690555494082238, "dur":602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1690555494082940, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1690555494084412, "dur":980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1690555494085538, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1690555494086866, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1690555494088275, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster.exe" }}
+,{ "pid":12345, "tid":3, "ts":1690555494089976, "dur":6401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494096496, "dur":8576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494112504, "dur":995, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494105174, "dur":8378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494113688, "dur":1038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494114804, "dur":34155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494149033, "dur":2874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494151966, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494152358, "dur":21924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494174870, "dur":358, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494175234, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494176387, "dur":981, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1690555494177388, "dur":4040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494181516, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494182384, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494183533, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494185032, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494186039, "dur":807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494186923, "dur":1236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494188257, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494189080, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494189821, "dur":1263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494191201, "dur":3783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494195080, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494196454, "dur":79839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1690555494276338, "dur":454713, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494063352, "dur":5230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494068586, "dur":708, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494069295, "dur":721, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494070016, "dur":169, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494070185, "dur":3829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494074026, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.5f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1690555494074015, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1690555494077852, "dur":1105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1690555494079076, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1690555494080107, "dur":688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1690555494080911, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1690555494081763, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1690555494082084, "dur":714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1690555494082923, "dur":1040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1690555494084575, "dur":993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1690555494085684, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1690555494087251, "dur":1128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494113094, "dur":977, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494089094, "dur":24991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1690555494114201, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494115201, "dur":1193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494116421, "dur":1606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494118127, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494119748, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494120572, "dur":737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494121373, "dur":2074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494123515, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494124808, "dur":1427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494126317, "dur":1016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494127404, "dur":990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494128460, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494129475, "dur":1088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494130633, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494131517, "dur":855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494132445, "dur":702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494133253, "dur":755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494134089, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494135386, "dur":175, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494135604, "dur":13773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494149457, "dur":7167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494156648, "dur":1239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494158110, "dur":2308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494160502, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494161497, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494163131, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494164156, "dur":1589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494165948, "dur":2754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494168743, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494168936, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494169016, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494170260, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494171396, "dur":896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494172390, "dur":883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494173393, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494174429, "dur":1144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494175616, "dur":360, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494175999, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494177011, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494177850, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494178022, "dur":35489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1690555494213565, "dur":2757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1690555494217525, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1690555494216393, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/noobn/Desktop/One Goofy Night Reboot/One Goofy Night Remaster_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1690555494217648, "dur":513497, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1690555494735866, "dur":1014, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 16740, "tid": 5546, "ts": 1690555494741972, "dur": 25039, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend1.traceevents"} },
+{ "pid": 16740, "tid": 5546, "ts": 1690555494767148, "dur": 1682, "ph": "X", "name": "backend1.traceevents", "args": {} },
+{ "pid": 16740, "tid": 5546, "ts": 1690555494741538, "dur": 27332, "ph": "X", "name": "Write chrome-trace events", "args": {} },
